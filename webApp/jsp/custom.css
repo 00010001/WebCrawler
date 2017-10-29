@@ -1,0 +1,28 @@
+a:visited {
+    color: #551A8B !important;
+}
+a, a:hover {
+    color: #1a0dab;
+}
+span.job_date {
+    color: #006621;
+    margin-bottom: 0;
+}
+p.job_provider{
+    margin-bottom: 0;
+}
+body {
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+h3 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.bd-example {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    border-width: .2rem;
+}
